@@ -9,12 +9,7 @@ The parameter **g** is the consumption rate of the juvenile predator by the prey
 
 ## Folder AgeStructured
 #### Main codes:
-**driver4AgreStructured.m**
-**PlotDiagram.m**
-**driver4ODEmodel.m**
-**PlotDiagram4ODE.m**
-**driver4DDEmodel.m**
-**PlotDiagram4DDE.m**
+**driver4AgreStructured.m**, **PlotDiagram.m**, **driver4ODEmodel.m**, **PlotDiagram4ODE.m**, **driver4DDEmodel.m**, **PlotDiagram4DDE.m**
 
 The model parameters other than **tau** and **g** are assigned in **assign_parameters.m**.
 The birth- and death-rate functions and the smoothed indicator functions are defined in **assign_parameter_functions.m**.
