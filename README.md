@@ -33,6 +33,8 @@ To compute the data for the phase diagram of the DDE model derived from the age-
 
 To plot the phase and bifurcation diagrams for the ODE and DDE models, use **PlotDiagram4ODE.m** and **PlotDiagram4DDE.m** respectively. The instructions are the same as for the age-structured model.
 
+Our data for plotting phase and bifurcation diagrams for all models are available upon request.
+
 ## Folder JointPhaseDiagram
 contains data for regions’ boundaries for all models, including the model with saturated birth rates, and a code **plot_zones.m** that reads these data and plots the joint bifurcation diagram.
 
