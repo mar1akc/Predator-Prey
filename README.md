@@ -14,6 +14,7 @@ The parameter **g** is the consumption rate of the juvenile predator by the prey
 #### Main codes:
 **driver4AgreStructured.m**, **PlotDiagram.m**, **driver4ODEmodel.m**, **PlotDiagram4ODE.m**, **driver4DDEmodel.m**, **PlotDiagram4DDE.m**
 
+You need to create folders **Data**, **DataODE_DDE**, and **ODEparams**
 The model parameters other than **tau** and **g** are assigned in **assign_parameters.m**.
 The birth- and death-rate functions and the smoothed indicator functions are defined in **assign_parameter_functions.m**.
 The model equations are defined in **time_step_helper.m**.
@@ -35,5 +36,3 @@ To plot the phase and bifurcation diagrams for the ODE and DDE models, use **Plo
 ## Folder JointPhaseDiagram
 contains data for regions’ boundaries for all models, including the model with saturated birth rates, and a code **plot_zones.m** that reads these data and plots the joint bifurcation diagram.
 
-## Folders Data and DataODE_DDE 
-allow you to to plot phase and bigurcation diagrams using data computed by the authors.
