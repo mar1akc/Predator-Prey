@@ -1,5 +1,8 @@
 # Predator-Prey
-A predator-prey model with an age-structured role reversal
+A predator-prey model with an age-structured role reversal developed in
+**L. Suarez,M. Cameron, W. Fagan, D. Levy, arXiv:<TBA>**
+
+Software developers: L. Suarez and M. Cameron.
 
 This package is designed to compute phase diagrams in the **(tau,g)**-plane for the predator-prey model with age-structured predator population and role reversal.
 
