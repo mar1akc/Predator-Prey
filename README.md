@@ -10,8 +10,7 @@ The parameter **tau** is the maturation age of the predator.
 The parameter **g** is the consumption rate of the juvenile predator by the prey.
 
 
-## Folder AgeStructured
-#### Main codes:
+## Main codes:
 **driver4AgreStructured.m**, **PlotDiagram.m**, **driver4ODEmodel.m**, **PlotDiagram4ODE.m**, **driver4DDEmodel.m**, **PlotDiagram4DDE.m**
 
 You need to create folders **Data**, **DataODE_DDE**, and **ODEparams**.
