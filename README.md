@@ -1,6 +1,6 @@
 # Predator-Prey
 A predator-prey model with an age-structured role reversal developed in
-**L. Suarez,M. Cameron, W. Fagan, D. Levy, arXiv:<TBA>**
+**L. Suarez, M. Cameron, W. Fagan, D. Levy, arXiv:<TBA>**
 
 Software developers: L. Suarez and M. Cameron.
 
