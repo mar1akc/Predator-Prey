@@ -1,7 +1,7 @@
 function [L,h_age,dt,age_vector,AgeNode,par_ifun,r,a,k,bb,s,rho,Mm,...
     z,birth_par,birth_exp_par,death_exp_par,mu_b_par] = assign_parameters(tau)
 L = 30; % life spane
-h_age = 0.1; % step in age
+h_age = 0.025; % step in age
 dt = h_age; % step in time
 age_vector = (0:h_age:L)'; % partition of life span
 AgeNode = floor(tau/h_age+1);
